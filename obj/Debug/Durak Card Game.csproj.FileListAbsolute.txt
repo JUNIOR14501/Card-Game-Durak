@@ -1,0 +1,8 @@
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\bin\Debug\Durak Card Game.exe.config
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\bin\Debug\Durak Card Game.exe
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\bin\Debug\Durak Card Game.pdb
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\obj\Debug\Durak Card Game.csproj.AssemblyReference.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\obj\Debug\Durak Card Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\obj\Debug\Durak Card Game.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\obj\Debug\Durak Card Game.exe
+C:\Users\vlad\Desktop\Курсовые\ООП\Дурак\DurakCardGame-master\obj\Debug\Durak Card Game.pdb

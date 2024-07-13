@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Durak_Card_Game.StartDurakGame">
+    <Position X="6.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StartDurakGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Durak_Card_Game.Program">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Durak_Card_Game.DurakGameplay">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAIAARABCCwBBAkbAAAAEBgAgAgAKQAcLhMJw=</HashCode>
+      <FileName>DurakGameplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Durak_Card_Game.DurakCard">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DurakCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Durak_Card_Game.Suits">
+    <Position X="16" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DurakCard.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Durak_Card_Game.Faces">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgggAAAAggAAQAAAAAAAAAAAAAACAABAAA=</HashCode>
+      <FileName>DurakCard.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
